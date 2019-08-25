@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+    color: white    ;
+}
+
+.htmlimg {
+    width: 600;
+    height: 1200;
+    opacity: 0.5;
+}
+
+.cssimg {
+    width: 600;
+    height: 1200;
+    opacity: 0.5;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    opacity: 0.9;
+}
+
+header {
+    color: red;
+    text-align: left;
+    background-color: red;
+    opacity: 0.9;
+}
+
+body {
+    font-family: Helvetica;
+    font-size: 15px;
+
+}
+
+.homehome{
+    font-style: italic;
+    font-display: ;
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+    
+}
+
+a {color:#000000;}
+
+.olla {
+    color: white;
+    font-style: italic;
+}
+
+p{
+    text-align: center;
+}
+
+.htmlimg{
+   padding-left: 475px;
+}
+.cssimg{
+   
+}
+
+.centerhead{
+    text-align: center;
+}
